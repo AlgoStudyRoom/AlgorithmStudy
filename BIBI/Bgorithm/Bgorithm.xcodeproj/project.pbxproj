@@ -34,6 +34,10 @@
 		86AB1C8128F84902007C665D /* PriorityQueue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PriorityQueue.swift; sourceTree = "<group>"; };
 		86AB1C8428F849C4007C665D /* Heap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Heap.swift; sourceTree = "<group>"; };
 		86CF1C5D28FDCDC900238462 /* BinarySearchTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinarySearchTree.swift; sourceTree = "<group>"; };
+		8F19F0A52974FDD8008979F9 /* 12-SelectionSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "12-SelectionSort.swift"; sourceTree = "<group>"; };
+		8F19F0A6297508FC008979F9 /* 12-InsertionSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "12-InsertionSort.swift"; sourceTree = "<group>"; };
+		8F19F0A72975097C008979F9 /* 12-QuickSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "12-QuickSort.swift"; sourceTree = "<group>"; };
+		8F19F0A829750A0E008979F9 /* 12-Counting Sort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "12-Counting Sort.swift"; sourceTree = "<group>"; };
 		8F31B91A291A36BF00BBE49E /* Retry1_BQ2606_BFS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Retry1_BQ2606_BFS.swift; sourceTree = "<group>"; };
 		8F31B91B291A373100BBE49E /* Retry2_BQ2606_BFS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Retry2_BQ2606_BFS.swift; sourceTree = "<group>"; };
 		8F3A398C2923DE1000BCE75D /* PQ17680_LRU.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PQ17680_LRU.swift; sourceTree = "<group>"; };
@@ -84,6 +88,7 @@
 		860108AC28EEA2CC00028D8F /* Bgorithm */ = {
 			isa = PBXGroup;
 			children = (
+				8F19F0A32974CF76008979F9 /* Documents */,
 				8FC917C62963AB8B00C191AC /* 2022 */,
 				860108AD28EEA2CC00028D8F /* main.swift */,
 				8FC917C52963AB6800C191AC /* 23-01 */,
@@ -132,6 +137,13 @@
 				8647A8D428FFFA290070DF87 /* 10-19 */,
 			);
 			path = "22-10";
+			sourceTree = "<group>";
+		};
+		8F19F0A32974CF76008979F9 /* Documents */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Documents;
 			sourceTree = "<group>";
 		};
 		8F31B918291A2A7200BBE49E /* 11-08 */ = {
@@ -204,6 +216,10 @@
 				8FC917C72963AC6D00C191AC /* 03-Greedy.swift */,
 				8F90E0F02965BE6100041E6C /* 05-Implementation.swift */,
 				8FB0AB71296CE3CB00C8B612 /* 10-DFS-BFS.swift */,
+				8F19F0A52974FDD8008979F9 /* 12-SelectionSort.swift */,
+				8F19F0A6297508FC008979F9 /* 12-InsertionSort.swift */,
+				8F19F0A72975097C008979F9 /* 12-QuickSort.swift */,
+				8F19F0A829750A0E008979F9 /* 12-Counting Sort.swift */,
 			);
 			path = "23-01";
 			sourceTree = "<group>";
